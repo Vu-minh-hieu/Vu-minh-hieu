@@ -17,9 +17,9 @@ Here are a few highlights of the projects I’m working on or have completed:
 Feel free to check out my repositories to see more of what I've been working on!
 
 ## 💬 Contact me via
-- **LinkedIn:** https://www.linkedin.com/in/hi%E1%BA%BFu-v%C5%A9-824b64351/
-- **Facebook:** https://www.facebook.com/vuhieu2912
-- **Email:** mailto://vuminhhieubg1@gmail.com
+- **LinkedIn:** [Hiếu Vũ](https://www.linkedin.com/in/hi%E1%BA%BFu-v%C5%A9-824b64351/)
+- **Facebook:** [Vũ Hiếu](https://www.facebook.com/vuhieu2912)
+- **Email:** [vuminhhieubg1@gmail.com](mailto:vuminhhieubg1@gmail.com)
 
 ------
 Thanks for visiting my profile!
