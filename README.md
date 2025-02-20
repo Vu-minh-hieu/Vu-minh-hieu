@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋.  I'm Hieu Vu
 
-<!--
-**Vu-minh-hieu/Vu-minh-hieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 😄 About Me
+-🌱 I'm from HaNoi, VietNam. I am a fan of technology, programming.
+-🎓 I’m currently studying at the University of Transport and Communications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##🔧 Technologies & Tools
+- **Languages:** Java, C and C++
+- **Tools:** Git, GitHub
+
+## ⚡ Projects
+Here are a few highlights of the projects I’m working on or have completed:
+**My Project:**
+- Do not have yet.
+Feel free to check out my repositories to see more of what I've been working on!
+
+## 💬 Contact me via
+- **LinkedIn:** https://www.linkedin.com/in/hi%E1%BA%BFu-v%C5%A9-824b64351/
+- **Facebook:** https://www.facebook.com/vuhieu2912
+- **Email:** mailto://vuminhhieubg1@gmail.com
+
+------
+Thanks for visiting my profile!
